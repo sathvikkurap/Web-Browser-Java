@@ -1,8 +1,7 @@
 # Web-Browser This is a web browser in Java which stores a temporary memory of the sites you search in a file called _searched.txt_ (emptied when you close the application)! Made by watching a tutorial. 
 
 This offers the capability to load most images, and keeps a log of the sites you searched, in the searched.txt file. 
-
-I am currently a 6th grader who loves to code (mainly in Java). 
+ 
 # Setup and Instructions 
 
 # Main method (also the easiest one but I am not sure whether it includes the short term memory log of what you have searched)
