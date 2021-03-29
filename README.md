@@ -4,12 +4,11 @@ This offers the capability to load most images, and keeps a log of the sites you
  
 # Setup and Instructions 
 
-# Main method (also the easiest one but I am not sure whether it includes the short term memory log of what you have searched)
+# Main method (also the easiest one)
 
 Download the "WebBrowser.jar" file and run it.
-Although I'm not sure whether it will include the capability for a short-term memory of the sites that you have searched, you can still access all of the functions of it. 
 
-# Other method (For people who want the "searched.txt" file) 
+# Other method 
 
 You will need a Java IDE (such as Eclipse or NetBeans). Link for help: 
 
